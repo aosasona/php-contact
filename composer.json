@@ -1,0 +1,7 @@
+{
+  "name": "ayodeji/postgress",
+  "description": "A simple OOP project in PHP with MySQL Database",
+  "type": "project",
+  "license": "ISC",
+  "require": {}
+}
